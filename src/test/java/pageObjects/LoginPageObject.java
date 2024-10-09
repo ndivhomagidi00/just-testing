@@ -34,7 +34,7 @@ public class LoginPageObject
     }
     public void message()
     {
-        text.getText();
+        text.getText();//
     }
 
 
